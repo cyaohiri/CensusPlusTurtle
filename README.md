@@ -6,4 +6,6 @@ CensusPlus for Turtle WoW
 
 Install location should be: ..\Interface\AddOns\CensusPlus
 
-![CensusPlus for Turtle WoW](https://github.com/Lexiebean/CensusPlusTurtle/blob/main/Preview.png)
+![CensusPlus for Turtle WoW](https://github.com/cyaohiri/CensusPlusTurtle/blob/main/Preview.png)
+
+This is a copy of Lexie's latest version that is now gone.
